@@ -8,6 +8,7 @@ My skills and the technologies I've used, sorted in a new way!
 - Matlab
 
 ### Hello City (I've used basic functions of that technology. or I've used it long time ago.)
+- React 
 - Nginx
 - Python (Django, matplot, numpy, Flask, QT)
 - WordPress
