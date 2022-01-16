@@ -24,6 +24,7 @@ My skills and the technologies I've used, sorted in a new way!
 - SQL
 - Eureka
 - Maven
+- Elastic Search
 
 ### Hello The Earth (I've read almost all pages of documentation of this tech / I used almost 70% of them)
 - Docker
